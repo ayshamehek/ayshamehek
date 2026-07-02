@@ -1,9 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:7F5AF0,100:00C2FF&height=220&section=header&text=Hi%20There,%20I'm%20Aysha%20Mehek&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
-
 <br/>
-
 <a href="https://linkedin.com/in/aysha-mehek">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
