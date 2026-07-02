@@ -61,16 +61,6 @@ class AyshaMehek:
 
 <br/>
 
-## 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/ayshamehek">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayshamehek&repo=fake-news-detection&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 ### 📰 Fake News Detection
 A Machine Learning based classifier that detects fake news articles using NLP techniques and supervised learning models.
 
@@ -87,12 +77,6 @@ A Machine Learning based classifier that detects fake news articles using NLP te
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayshamehek&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayshamehek&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 </div>
 
 ## 📈 Contribution Graph
