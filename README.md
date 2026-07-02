@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:7F5AF0,100:00C2FF&height=220&section=header&text=Hi%20There,%20I'm%20Aysha%20Mehek&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Python+%26+Machine+Learning+Learner+%F0%9F%A4%96;Turning+Data+into+Insights+%E2%9C%A8;Always+Curious%2C+Always+Learning+%F0%9F%8C%B1" />
-
 <br/>
 
 <a href="https://linkedin.com/in/aysha-mehek">
