@@ -68,9 +68,6 @@ A Machine Learning based classifier that detects fake news articles using NLP te
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayshamehek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayshamehek&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayshamehek&theme=tokyonight&hide_border=true"/>
 
 </div>
